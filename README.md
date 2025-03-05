@@ -1,4 +1,4 @@
-# Stress Detection Text Mining
+# Project Overview
 This project aims to detect stress from social media articles using machine learning and natural language processing (NLP) techniques. It is co-autored by **Panagiotis Makropoulos**. The dataset used is publicly available at Kaggle ([Stress Detection from Social Media Articles](https://www.kaggle.com/datasets/mexwell/stress-detection-from-social-media-articles)). We specifically used *"Twitter_Full.csv"* file that contains Tweeter posts from September 2019 to September 2021.
 
 # 1. Data Preprocessing - Feature Extraction
