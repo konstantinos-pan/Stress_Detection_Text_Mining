@@ -1,0 +1,8 @@
+gensim==4.3.3
+google.colab==1.0.0
+matplotlib==3.10.0
+nltk==3.9.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+xgboost==2.1.4
