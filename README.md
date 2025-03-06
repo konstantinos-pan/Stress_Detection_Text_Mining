@@ -12,7 +12,7 @@ The model results are shown on the table below
 
 | Model               | Embedding            | Training Accuracy | Test Accuracy |  Test F1-Score | Test AUC  |
 |---------------------|----------------------|-------------------|---------------|----------------|-----------|
-| Logistic Regression | Custom Word2Vec      | 78.05% | 76.65% | 0.7769 | 0.7664 |
+| Logistic Regression | Custom Word2Vec      | 77.97% | 76.57% | 0.7766 | 0.7657 |
 | Logistic Regression | Pretrained Word2Vec  | 82.37% | 81.83% | 0.8232 | 0.8182 |
-| XGBoost            | Custom Word2Vec       | 78.12% | 77.76% | 0.7854 | 0.7776 |
-| XGBoost            | Pretrained Word2Vec   | 81.52% | 80.60% | 0.8130 | 0.8060 |
+| XGBoost            | Custom Word2Vec       | 78.43% | 77.96% | 0.7891 | 0.7795 |
+| XGBoost            | Pretrained Word2Vec   | 82.27% | 80.84% | 0.8158 | 0.8083 |
